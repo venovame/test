@@ -2,7 +2,7 @@ from numpy import matrix
 from numpy import linalg
 tic = matrix( [[0,0,0],[0,0,0],[0,0,0]])
 print tic
-print ('abc')
+print ('xyz')
 
 def input(move1,move2):
    	#move1=raw_input("first player, input row\n")
